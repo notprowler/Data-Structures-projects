@@ -1,0 +1,5 @@
+# ninja log v5
+2	217	7106603608884338	build.ninja	1d57e4605d4d8f0d
+4	1450	7106594957671117	CMakeFiles/csc_212_prj_5.dir/rec_fun_test.cpp.obj	185aea6cb6131785
+9	1605	7106594822837478	CMakeFiles/csc_212_prj_5.dir/rec_fun.cpp.obj	5fb8eea0a714ec20
+1451	1553	7106594958668800	csc_212_prj_5.exe	81bd9818cb3e06a7
